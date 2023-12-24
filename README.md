@@ -1,7 +1,7 @@
 # Python_Project
 Python GUI based Text Editor
 
-Modules used:
+Libraries used:
 Python GUI Tkinter 
 
 
