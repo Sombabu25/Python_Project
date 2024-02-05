@@ -1,5 +1,5 @@
 # Python_Project
-Python GUI based Text Editor
+Python GUI based Notepad Text Editor app
 
 Libraries used:
 Python GUI Tkinter 
