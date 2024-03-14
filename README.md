@@ -1,4 +1,4 @@
-# Python_Project
+# NotePad
 Python GUI based Notepad Text Editor app
 
 Libraries used:
